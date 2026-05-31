@@ -16,16 +16,6 @@ The following software is required to run this project:
 
 Microsoft Excel 2016 or later
 Windows 10/11, macOS, or any operating system supporting Microsoft Excel
-Installing
-How to download the project
-Clone the repository:
-git clone https://github.com/your-username/data-cleaning-transformation-excel.git
-Navigate to the project folder:
-cd data-cleaning-transformation-excel
-Open the Excel workbook (.xlsx) file in Microsoft Excel.
-Modifications
-
-No additional configuration is required. Ensure that macros are enabled if the workbook contains any automated functionality.
 
 Executing Program
 How to run the project
